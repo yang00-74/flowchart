@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T09:52:17.967Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="LBIO_aro9Qw1hoQSi_tI" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T02:50:16.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ZJjXdx2O944DPC1W4Y4f" version="13.8.0" type="github">
   <diagram id="uuYXE82NBK7OaKoCnniR" name="Page-1">
     <mxGraphModel dx="1426" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,6 +71,9 @@
         <mxCell id="kUqMKlsCzEXrxmU9Kn5D-36" value="Class1 字节码文件" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="100" y="580" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="75wxQWtNuR_C-kRWOyaO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="1" source="kUqMKlsCzEXrxmU9Kn5D-37" target="75wxQWtNuR_C-kRWOyaO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kUqMKlsCzEXrxmU9Kn5D-37" value="运行时 Class1 类" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="250" y="700" width="120" height="80" as="geometry" />
         </mxCell>
@@ -90,7 +93,7 @@
         <mxCell id="kUqMKlsCzEXrxmU9Kn5D-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kUqMKlsCzEXrxmU9Kn5D-40" target="kUqMKlsCzEXrxmU9Kn5D-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kUqMKlsCzEXrxmU9Kn5D-48" value="4. 加载，retransform" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kUqMKlsCzEXrxmU9Kn5D-47" vertex="1" connectable="0">
+        <mxCell id="kUqMKlsCzEXrxmU9Kn5D-48" value="4.重新加载，retransform" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kUqMKlsCzEXrxmU9Kn5D-47" vertex="1" connectable="0">
           <mxGeometry x="-0.3267" y="-2" relative="1" as="geometry">
             <mxPoint x="16" y="-2" as="offset" />
           </mxGeometry>
@@ -104,8 +107,14 @@
         <mxCell id="kUqMKlsCzEXrxmU9Kn5D-43" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="295" y="510" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="75wxQWtNuR_C-kRWOyaO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="kUqMKlsCzEXrxmU9Kn5D-46" target="75wxQWtNuR_C-kRWOyaO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kUqMKlsCzEXrxmU9Kn5D-46" value="运行时 Class1 类" style="ellipse;whiteSpace=wrap;html=1;rounded=0;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
-          <mxGeometry x="480" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="75wxQWtNuR_C-kRWOyaO-2" value="运行时使用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,1 +1,238 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T03:40:39.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="jAItWvLEwcuj1SCOpJo_" version="14.4.4" type="github"><diagram id="uuYXE82NBK7OaKoCnniR" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-05T03:44:13.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Dfa-Y5xuaRlZAGANoaql" version="14.4.4" type="github">
+  <diagram id="uuYXE82NBK7OaKoCnniR" name="Page-1">
+    <mxGraphModel dx="815" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-69" value="客户端" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="20" y="40" width="260" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-35" value="获取到证书，开始身份验证" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="75" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-38" value="获取操作系统或浏览器内置的对应的 CA 机构的公钥" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="72.5" y="545" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-35" target="JsDEtYK8WjCFW17wyUcO-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-40" value="获得证书摘要" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="77.5" y="630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-38" target="JsDEtYK8WjCFW17wyUcO-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-42" value="使用 CA 机构公钥解密数字签名" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-41" vertex="1" connectable="0">
+          <mxGeometry x="-0.125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-43" value="计算获得摘要" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="77.5" y="700" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-40" target="JsDEtYK8WjCFW17wyUcO-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-45" value="对证书采用 CA 机构的摘要算法进行计算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-44" vertex="1" connectable="0">
+          <mxGeometry x="-0.275" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-46" value="客户端计算的摘要与证书摘要一致？" style="rhombus;whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="62.5" y="750" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-43" target="JsDEtYK8WjCFW17wyUcO-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-48" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;身份认证失败" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;align=left;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="220" y="767.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-46" target="JsDEtYK8WjCFW17wyUcO-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="783" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-50" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.4462" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-54" value="校验证书有效期，域名等信息" style="rhombus;whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="60" y="850" width="120" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-46" target="JsDEtYK8WjCFW17wyUcO-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-56" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-55" vertex="1" connectable="0">
+          <mxGeometry x="-0.3655" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-57" value="校验未通过" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-54" target="JsDEtYK8WjCFW17wyUcO-48" edge="1">
+          <mxGeometry x="-0.4373" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-58" value="生成对称秘钥" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="70" y="950" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-54" target="JsDEtYK8WjCFW17wyUcO-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-60" value="校验通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-59" vertex="1" connectable="0">
+          <mxGeometry x="-0.3723" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-61" value="发送加密后的对称秘钥" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="JsDEtYK8WjCFW17wyUcO-69" vertex="1">
+          <mxGeometry x="62.5" y="1020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JsDEtYK8WjCFW17wyUcO-69" source="JsDEtYK8WjCFW17wyUcO-58" target="JsDEtYK8WjCFW17wyUcO-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-63" value="使用证书上的服务端公钥加密对称秘钥" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-62" vertex="1" connectable="0">
+          <mxGeometry x="-0.2941" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8BZbuieE8IRG9l0fq3M0-31" value="服务端" style="swimlane;swimlaneLine=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="300" y="40" width="230" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-64" value="&amp;nbsp;获得加密后的对称秘钥" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8BZbuieE8IRG9l0fq3M0-31" vertex="1">
+          <mxGeometry x="40" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-66" value="&amp;nbsp;获得对称秘钥，完成通信秘钥协商" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8BZbuieE8IRG9l0fq3M0-31" vertex="1">
+          <mxGeometry x="40" y="1040" width="122.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8BZbuieE8IRG9l0fq3M0-31" source="JsDEtYK8WjCFW17wyUcO-64" target="JsDEtYK8WjCFW17wyUcO-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-68" value="服务端私钥解密" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-67" vertex="1" connectable="0">
+          <mxGeometry x="-0.25" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="8BZbuieE8IRG9l0fq3M0-31" vertex="1">
+          <mxGeometry x="95" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-33" value="返回证书" style="whiteSpace=wrap;html=1;align=left;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="8BZbuieE8IRG9l0fq3M0-31" vertex="1">
+          <mxGeometry x="82.5" y="500" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8BZbuieE8IRG9l0fq3M0-31" source="JsDEtYK8WjCFW17wyUcO-32" target="JsDEtYK8WjCFW17wyUcO-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8BZbuieE8IRG9l0fq3M0-42" value="CA 机构" style="swimlane;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="540" y="40" width="280" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-12" value="证书包含的关键信息：&lt;br&gt;1. 发证机构&lt;br&gt;2. 证书持有者&lt;br&gt;3. 证书的有效期&lt;br&gt;4. 证书持有者的域名&lt;br&gt;5. 证书持有者的公钥&lt;br&gt;6. 签名算法&lt;br&gt;......" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="8BZbuieE8IRG9l0fq3M0-42" vertex="1">
+          <mxGeometry x="140" y="30" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-6" value="结束" style="whiteSpace=wrap;html=1;rounded=0;" parent="8BZbuieE8IRG9l0fq3M0-42" vertex="1">
+          <mxGeometry x="30" y="262" width="85" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-4" value="审核通过？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="8BZbuieE8IRG9l0fq3M0-42" vertex="1">
+          <mxGeometry x="30" y="144.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="8BZbuieE8IRG9l0fq3M0-42" source="JsDEtYK8WjCFW17wyUcO-4" target="JsDEtYK8WjCFW17wyUcO-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-8" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.3778" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="JsDEtYK8WjCFW17wyUcO-27" target="JsDEtYK8WjCFW17wyUcO-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="405" y="126.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-2" target="JsDEtYK8WjCFW17wyUcO-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-2" value="填写信息申请证书" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="206.5" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-4" target="JsDEtYK8WjCFW17wyUcO-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-10" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-6" target="JsDEtYK8WjCFW17wyUcO-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-9" target="JsDEtYK8WjCFW17wyUcO-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-15" value="Hash 算法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.325" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-9" value="生成证书" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="690" y="203.5" width="95" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-13" target="JsDEtYK8WjCFW17wyUcO-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-18" value="CA 机构私钥加密摘要" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JsDEtYK8WjCFW17wyUcO-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.175" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-13" value="生成摘要" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="690" y="286.5" width="95" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-16" target="JsDEtYK8WjCFW17wyUcO-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-16" value="生成数字签名" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="690" y="366.5" width="95" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-19" target="JsDEtYK8WjCFW17wyUcO-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-19" value="将证书及数字签名发送给申请者" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="690" y="426.5" width="95" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-21" target="JsDEtYK8WjCFW17wyUcO-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-21" value="成功获取到证书" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="357.5" y="425.5" width="95" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JsDEtYK8WjCFW17wyUcO-26" target="JsDEtYK8WjCFW17wyUcO-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-26" target="JsDEtYK8WjCFW17wyUcO-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-26" value="客户端发起请求" style="html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="95" y="485.5" width="90" height="34.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-27" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="385" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JsDEtYK8WjCFW17wyUcO-28" target="JsDEtYK8WjCFW17wyUcO-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;align=left;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="120" y="385.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JsDEtYK8WjCFW17wyUcO-33" target="JsDEtYK8WjCFW17wyUcO-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JsDEtYK8WjCFW17wyUcO-61" target="JsDEtYK8WjCFW17wyUcO-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JsDEtYK8WjCFW17wyUcO-23" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;申请结束" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;align=left;" parent="1" vertex="1">
+          <mxGeometry x="390" y="302" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
